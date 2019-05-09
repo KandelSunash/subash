@@ -1,0 +1,23 @@
+GIT:
+why GIT:-->sharing and retriving diffrent modules of project; 
+Repository:-->database of git;
+also Authority
+github
+gitlab
+bit bucket
+backup of code
+
+what is git??
+V=version
+C=control
+S=system
+
+GIT bash-->all command
+
+UNTRACKED:-->
+
+open folder
+right click and select git bash here
+start:-->git init
+for seeing status:-->git status
+aadding: git add filename
